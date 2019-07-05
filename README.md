@@ -1,0 +1,3 @@
+This repository is part of my undergraduate thesis. Here you'll find the results of the tests I executed with an open source tool named FlowDroid.
+
+Every folder represents a bank, inside the folders you can find files with the analysis made for each bank's Android application. Every file is named after the source where I downloaded the APKs (Android Packages). The ones with .apk extensions are, naturally, APK files and the ones with .java extensions are FlowDroid outputs (the results).
